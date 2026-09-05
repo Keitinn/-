@@ -21,8 +21,8 @@
     }
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
-    "cordova": "^9.0.0"
+    "browser-sync": "^3.0.4",
+    "cordova": "^13.0.0"
   },
   "overrides": {
     "axios": "1.20.0",
@@ -30,6 +30,7 @@
     "fsevents": "2.3.3",
     "immutable": "3.8.4",
     "qs": "6.16.0",
-    "decode-uri-component": "0.5.0"
+    "decode-uri-component": "0.5.0",
+    "uuid": "11.1.1"
   }
 }
